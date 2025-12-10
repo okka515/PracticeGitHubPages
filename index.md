@@ -1,3 +1,3 @@
 こんにてぃは
 
-このホームページのソースコードは[こちら](https://github.com//okka515/PracticeGitHubPages/)
+このホームページのソースコード[こちら](https://github.com//okka515/PracticeGitHubPages/)
